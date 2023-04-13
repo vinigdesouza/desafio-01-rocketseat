@@ -60,5 +60,12 @@ Rotas:
     
     Antes da alteração, deve ser feito uma validação se o `id` pertence a uma task salva no banco de dados.
     
+## Indo além
+
+Algumas sugestões do que pode ser implementado:
+
+- Validar se as propriedades `title` e `description` das rotas `POST` e `PUT` estão presentes no `body` da requisição.
+- Nas rotas que recebem o `/:id`, além de validar se o `id` existe no banco de dados, retornar a requisição com uma mensagem informando que o registro não existe.
+    
 
 ###
