@@ -1,6 +1,6 @@
 # desafio-01-rocketseat
 
-## Sobre o desafio
+## Sobre o desafios
 
 Nesse desafio você desenvolverá uma API para realizar o CRUD de suas *tasks* (tarefas).
 
